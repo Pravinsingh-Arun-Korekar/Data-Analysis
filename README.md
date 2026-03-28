@@ -38,3 +38,33 @@ This repository is dedicated to **data visualization and business insight analys
 - **City Insights**: Chennai and Rajkot show higher revenue per transaction  
 - **Demographics**: Ludhiana and Bangalore skew older in customer age  
 ---
+---
+# 🎬 Country Wise Movie Analysis Dashboard
+
+An interactive Power BI dashboard that provides **country-level insights into the movie industry**, including budgets, ROI, profits, and genre-based performance.
+
+---
+
+## 📊 Features
+- **Country Tabs**: Switch between Australia, Brazil, Canada, China, Denmark, France, Germany, and Hong Kong.
+- **Key Metrics**:
+  - Average Movie Duration: 120 mins
+  - ROI: 3.29
+  - Total Movie Budget: 59,179M
+  - Number of Movies: 1200
+  - Average Movie Budget: $55M
+- **Genre Analysis**: Compare Science Fiction, Action, Adventure, Comedy, Drama, War, Thriller, and Fantasy across:
+  - Total Movies
+  - Average Duration
+  - Total Budget
+  - ROI
+  - Profit & Loss
+- **Geographic Context**: World map visualization highlighting North America, Europe, Asia, and other regions.
+
+---
+
+## 🛠 Tech Stack
+- **Power BI** for interactive dashboards with DAX Query
+---
+
+## 📂 Project Structure
