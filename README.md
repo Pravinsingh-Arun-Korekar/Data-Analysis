@@ -66,5 +66,34 @@ An interactive Power BI dashboard that provides **country-level insights into th
 ## 🛠 Tech Stack
 - **Power BI** for interactive dashboards with DAX Query
 ---
+---
 
-## 📂 Project Structure
+# 🚲 Bike Store Sales Analysis Project
+
+## 📌 Introduction
+This repository contains a comprehensive **business intelligence and sales performance analysis** for a multi-location bike retailer. It utilizes historical sales and inventory data to identify revenue drivers and stock-out risks.
+
+---
+
+## 📈 Project Summary
+- **Total Sales Revenue**: **$7.69M**
+- **Total Quantity Sold**: **4,761 Units**
+- **Primary Locations**: Baldwin Bikes (NY), Santa Cruz Bikes (CA), Rowlett Bikes (TX)
+- **Peak Performance**: **2017** ($3.4M sales)
+
+---
+
+## 🔍 Analysis Coverage
+- **Store Performance**: Sales and profit share by location (Baldwin Bikes leads at **67.8%**).
+- **Category Insights**: Analysis of 7 categories, dominated by **Mountain Bikes** (35.3% of sales).
+- **Brand Distribution**: Tracking performance of brands like **Trek, Electra, and Surly**.
+- **Temporal Trends**: Monthly/Yearly trends showing peak orders in **April**.
+- **Inventory Status**: Monitoring "Out of Stock" and "Low Stock" critical items.
+
+---
+
+## 🌟 Key Highlights
+- **Market Leader**: **Mountain Bikes** generated **$2.7M** in profit.
+- **Top Brand**: **Trek** features the most diverse catalog with **135 products**.
+- **Seasonality**: Highest transaction volume occurs in **March and April**.
+- **Inventory Alert**: High-demand framesets (e.g., Surly) identified with **zero current quantity**.
